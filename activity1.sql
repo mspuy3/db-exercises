@@ -1,3 +1,6 @@
+-- MICHAEL SIEMENS UY
+-- SEPTEMBER 28 2022
+
 -- STEP 1
 CREATE TABLE IF NOT EXISTS students (
     id integer NOT NULL,

@@ -1,3 +1,6 @@
+-- MICHAEL SIEMENS UY
+-- SEPTEMBER 28 2022
+
 -- Display the count of all `students`
 
 SELECT 
